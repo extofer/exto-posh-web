@@ -5,6 +5,10 @@
 # use this cmdlet to list results of 
 # stackoverflow search and select the 
 # Q&A to read text only
+#
+# BSD New License  
+# https://raw.github.com/extofer/exto-posh-web/master/LICENSE
+
 
 $arg= $args[0]
 cls
